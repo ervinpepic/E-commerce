@@ -1,0 +1,47 @@
+body {
+  padding-top: 3%;
+  padding-right: 8%;
+  padding-left: 8%;
+  padding-bottom: 6%; 
+
+}
+
+
+.navbar-static-top{
+  margin-bottom: 19px;
+  background-color: #0C4B33;
+  border-color: #44B78B;
+  border-width: 2px;
+
+}
+
+
+
+.navbar-default .navbar-nav>li>a{
+  color: #ffffff;
+}
+
+.navbar-default .navbar-brand {
+  color: #44B78B;
+  font-weight: 900;
+}
+
+.navbar-default .navbar-brand:hover {
+  color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: #000;
+}
+
+.navbar-default .navbar-toggle {
+ border-color: transparent !important;
+}
+
+.navbar-toggle:hover {
+	background-color: #00B2FF !important;
+}
+
+.navbar-toggle {
+	background-color: #5ACDFF !important;
+}
